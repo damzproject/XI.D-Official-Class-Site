@@ -1,6 +1,6 @@
-const BoxOldWeb = () => {
+const Forum_Rahasia_XI_D = () => {
 	return (
-		<div id="BoxOldWeb">
+		<div id="Forum_Rahasia_XI_D">
 			<a href="https://base.xtkj3phi.repl.co/">
 				<div className="flex justify-between">
 					<img src="/link.png" alt="" className="w-auto h-6" />
@@ -12,4 +12,4 @@ const BoxOldWeb = () => {
 	)
 }
 
-export default BoxOldWeb
+export default Forum_Rahasia_XI_D
