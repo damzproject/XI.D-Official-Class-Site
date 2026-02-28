@@ -1,8 +1,8 @@
 
 const BoxOldWeb = () => {
 	return (
-		<div id="BoxOldWeb">
-			<a href="https://base.xtkj3phi.repl.co/">
+		<div id="Forum Rahasia XI.D">
+			<a href="https://ngl.link/xid_confession_room">
 				<div className="flex justify-between">
 					<img src="/link.png" alt="" className="w-auto h-6" />
 					<img src="/next.png" alt="" className="h-3 w-3" />
